@@ -64,5 +64,3 @@ The project builds an **end-to-end machine learning pipeline** covering data pre
 - Proper handling of class imbalance and medical interpretability is crucial in healthcare ML projects.  
 
 ---
-
-## 📁 Project Structure  
